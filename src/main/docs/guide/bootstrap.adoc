@@ -9,3 +9,4 @@ include::{sourceDir}/grails-app/init/org/grails/guides/BootStrap.groovy[]
 ----
 
 Now restart the application, and browse to the DBConsole, you should be able to expand the three tables and see our newly created data.
+The Code example is outdated now in newer version of grails. 
